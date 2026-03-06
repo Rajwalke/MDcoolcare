@@ -288,7 +288,7 @@ const Home = () => {
 
               {/* Stats row */}
               <div className="anim-fade-up flex gap-8 pt-2" style={{ animationDelay: "0.65s" }}>
-                {[["4,800+", "Happy Customers"], ["12+", "Years Experience"], ["98%", "Satisfaction"]].map(([val, lbl]) => (
+                {[["2,800+", "Happy Customers"], ["10+", "Years Experience"], ["96%", "Satisfaction"]].map(([val, lbl]) => (
                   <div key={lbl}>
                     <p className="text-2xl font-bold text-white">{val}</p>
                     <p className="text-xs text-slate-500 mt-0.5">{lbl}</p>
