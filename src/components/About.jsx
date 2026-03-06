@@ -1,6 +1,9 @@
 import { useRef, useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
 import owner from "../assets/owner.jpg"
+import tech1 from "../assets/tech1.jpg"
+import tech2 from "../assets/tech2.png"
+import tech3 from "../assets/tech3.jpg"
 /* ─────────────────────────────────────────
    INTERSECTION OBSERVER HOOK
 ───────────────────────────────────────── */
@@ -53,25 +56,25 @@ const story = [
 
 const team = [
   {
-    name: "Rajesh Kumar",
-    role: "Lead AC Technician",
+    name: "Sahil Khan",
+    role: "AC Technician & Helper",
     exp: "5 years experience",
     spec: "Split & Inverter AC Systems",
-    avatar: "", // ← drop image src here
+    avatar: tech1, // ← drop image src here
   },
   {
-    name: "Anil Sharma",
-    role: "Senior Installation Engineer",
+    name: "Rashid Qureshi",
+    role: "Installation Engineer",
     exp: "3 years experience",
     spec: "Copper Pipe & Wiring",
-    avatar: "",
+    avatar: tech2,
   },
   {
-    name: "Deepak Singh",
-    role: "PCB & Electronics Specialist",
+    name: "mujahid Qureshi",
+    role: "PCB & Junior Technician",
     exp: "6 years experience",
     spec: "PCB Repair & Diagnostics",
-    avatar: "",
+    avatar: tech3,
   },
 ];
 
@@ -321,10 +324,10 @@ const About = () => {
                 {/* Photo */}
                 <div className="w-20 h-20 rounded-2xl bg-slate-700 overflow-hidden mb-4 border-2 border-white/10 flex items-center justify-center">
                   {/* ← Replace src="" with team member photo */}
-                  <img src={member.avatar} alt={member.name} className="w-full h-full object-cover hidden" />
-                  <svg className="w-10 h-10 text-slate-500" fill="none" stroke="currentColor" strokeWidth={1} viewBox="0 0 24 24">
+                  <img src={member.avatar} alt={member.name} className="w-full h-full object-cover " />
+                  {/* <svg className="w-10 h-10 text-slate-500" fill="none" stroke="currentColor" strokeWidth={1} viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M5.121 17.804A9 9 0 1118.88 6.196M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                  </svg>
+                  </svg> */}
                 </div>
 
                 <div className="w-8 h-0.5 bg-sky-500 rounded-full mb-3 group-hover:w-14 transition-all duration-300" />
