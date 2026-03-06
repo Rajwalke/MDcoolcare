@@ -236,7 +236,7 @@ const About = () => {
               </div>
 
               <a
-                href="tel:+1234567890"
+                href="tel:+91 9022095489"
                 className="mt-2 w-fit inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-sky-500 to-blue-600 text-white font-semibold rounded-xl shadow-md shadow-sky-200 hover:scale-105 active:scale-95 transition-all duration-200 text-sm"
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
