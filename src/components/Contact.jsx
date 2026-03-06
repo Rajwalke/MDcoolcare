@@ -26,7 +26,7 @@ const WHATSAPP   = "+91 9022095489";     // ← digits only, no + or spaces
 const EMAIL      = "abdulmasjidnathani@gmail.com";
 const INSTAGRAM  = "https://www.instagram.com/md_cool_care?igsh=a2JkeGpoMHhuYm1p";
 const FACEBOOK   = "https://www.facebook.com/people/Md-Hussain-Nathani/pfbid0NDyq9PXFbyoChCxiFeoo4yDoccqsw4qhy1aqV47sTPkfNSR28ag8hwLkRuV8vodul/?rdid=V0BTz0fByMc2ukzN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HPdTPzkUr%2F";
-const ADDRESS    = "xyz,Andheri-West, Mumbai, 400058";
+const ADDRESS    = "Qureshi compund, bldg no 4/B room no 201 Behrambaugh, Veera Desai Industrial Estate, Jogeshwari West, Mumbai, Maharashtra-400102";
 const HOURS      = "Mon – Sun · 8:00 AM – 11:00 PM";
 const EMERGENCY  = "24/7 Emergency Calls Available";
 
