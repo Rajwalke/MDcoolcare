@@ -21,8 +21,8 @@ function useInView(threshold = 0.1) {
    CONTACT INFO DATA
    ← Replace all values with your real info
 ───────────────────────────────────────── */
-const PHONE      = "+91-9022095489";   // ← your phone number
-const WHATSAPP   = "+91-9022095489";     // ← digits only, no + or spaces
+const PHONE      = "+91 9022095489";   // ← your phone number
+const WHATSAPP   = "+91 9022095489";     // ← digits only, no + or spaces
 const EMAIL      = "abdulmasjidnathani@gmail.com";
 const INSTAGRAM  = "https://instagram.com/mdcoolcare";
 const FACEBOOK   = "https://facebook.com/mdcoolcare";

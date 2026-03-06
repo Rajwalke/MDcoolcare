@@ -276,7 +276,7 @@ const Home = () => {
                   Book a Service →
                 </NavLink>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+91 9022095489"
                   className="px-7 py-3.5 border border-white/15 text-white font-semibold rounded-2xl hover:bg-white/5 transition-all duration-200 text-sm flex items-center gap-2"
                 >
                   <svg className="w-4 h-4 text-sky-400" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
@@ -512,7 +512,7 @@ const Home = () => {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="tel:+1234567890"
+              href="tel:+91 9022095489"
               className="px-8 py-3.5 bg-white text-sky-600 font-bold rounded-2xl shadow-lg hover:scale-105 active:scale-95 transition-all duration-200 text-sm"
             >
               📞 Call Now
