@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom'
 import './App.css'
 import Navbar from './components/Navbar'
 
-const WHATSAPP = "+91 9022095489"; // ← Replace with your number (digits only, no + or spaces)
+const WHATSAPP = "919022095489"; // ← Replace with your number (digits only, no + or spaces)
 const WHATSAPP_MSG = encodeURIComponent("Hi MD Cool Care! 👋 I need help with my AC.");
 
 function App() {
