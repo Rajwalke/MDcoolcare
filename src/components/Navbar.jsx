@@ -82,7 +82,7 @@ export default function Navbar() {
             {/* ── Desktop CTA ── */}
             <div className="hidden md:flex items-center gap-4">
               <a
-                href="tel:+1234567890"
+                href="tel:+91 9022095489"
                 className="flex items-center gap-2.5 text-[15px] font-semibold text-slate-600 hover:text-sky-500 transition-colors duration-200"
               >
                 <div className="w-9 h-9 rounded-full bg-sky-50 border border-sky-100 flex items-center justify-center">
