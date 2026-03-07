@@ -182,7 +182,7 @@ export default function Navbar() {
           {/* Drawer Bottom CTAs */}
           <div className="px-6 pb-8 flex flex-col gap-3">
             <a
-              href="tel:+1234567890"
+              href="tel:+91 9022095489"
               className="flex items-center justify-center gap-2 w-full py-3 rounded-xl border border-sky-200 text-sky-600 text-[15px] font-semibold hover:bg-sky-50 transition-colors duration-200"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
