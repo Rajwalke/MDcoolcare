@@ -22,7 +22,7 @@ function useInView(threshold = 0.1) {
    ← Replace all values with your real info
 ───────────────────────────────────────── */
 const PHONE      = "+91 9022095489";   // ← your phone number
-const WHATSAPP   = "+91 9022095489";     // ← digits only, no + or spaces
+const WHATSAPP   = "919022095489";     // ← digits only, no + or spaces
 const EMAIL      = "abdulmasjidnathani@gmail.com";
 const INSTAGRAM  = "https://www.instagram.com/md_cool_care?igsh=a2JkeGpoMHhuYm1p";
 const FACEBOOK   = "https://www.facebook.com/people/Md-Hussain-Nathani/pfbid0NDyq9PXFbyoChCxiFeoo4yDoccqsw4qhy1aqV47sTPkfNSR28ag8hwLkRuV8vodul/?rdid=V0BTz0fByMc2ukzN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HPdTPzkUr%2F";
