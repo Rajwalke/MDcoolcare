@@ -209,7 +209,7 @@ const Contact = () => {
 
         <div className="max-w-3xl mx-auto px-5 sm:px-8 text-center relative z-10">
           <span className="inline-block px-4 py-1.5 rounded-full bg-sky-500/10 border border-sky-500/20 text-sky-400 text-xs font-bold tracking-widest uppercase mb-5">
-            Get In Touch
+            Get In Touch !
           </span>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-5">
             We're Just a{" "}
